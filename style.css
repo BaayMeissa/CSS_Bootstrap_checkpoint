@@ -1,0 +1,33 @@
+body{
+    background-color: #EEE2DF;
+}
+
+nav{
+    justify-content: end;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    
+}
+
+ul li a{
+    color:#7EA0B7;
+    text-decoration: none;
+}
+
+header{
+    height: 100px;
+    color:  #7EA0B7;
+    background-color:#314148;
+    }
+
+.bg-black{
+    color:#EED7C5;
+}
+
+footer{
+    background-color: #738288;
+}
